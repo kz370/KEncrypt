@@ -1,0 +1,89 @@
+Copyright (c) 2026 Khaled Zaki Zaki Morsi
+
+KEncrypt Proprietary Freeware License
+
+Permission is granted to use the compiled KEncrypt PHP extension
+("Software") free of charge for personal, internal, or commercial use,
+subject to the following terms.
+
+LICENSE GRANT
+The Author grants you a non-exclusive, non-transferable, worldwide,
+royalty-free license to use the Software for the purpose of protecting,
+encoding, or encrypting your own PHP applications.
+
+DISTRIBUTION OF ENCODED OUTPUT AND SOFTWARE
+PHP files or other software components encoded or encrypted using the
+Software may be freely distributed as part of your own applications,
+whether commercial or non-commercial. 
+
+You may redistribute the unmodified compiled KEncrypt PHP extension solely 
+when bundled alongside your encoded applications to enable their execution. 
+You may not sell, sublicense, rent, lease, or distribute the Software as a 
+standalone product.
+
+RESTRICTIONS
+You may not, and may not permit any third party to:
+• Reverse engineer, decompile, disassemble, or otherwise attempt to
+derive the source code, structure, or underlying algorithms of the Software.
+• Analyze, bypass, disable, defeat, or circumvent any encryption,
+protection, licensing, or security mechanisms implemented by the Software.
+• Use debugging tools, instrumentation, emulation, memory inspection,
+or similar techniques to discover the internal operation of the Software.
+• Modify, adapt, translate, or create derivative works based upon the Software.
+• Develop, distribute, or use any software intended to defeat or bypass
+the protection mechanisms of the Software.
+
+OWNERSHIP
+The Software, including all intellectual property rights, design,
+structure, and encryption methods contained within it, is and shall
+remain the exclusive property of Khaled Zaki Zaki Morsi.
+
+The internal implementation and protection mechanisms of the Software
+constitute proprietary trade secrets and may not be analyzed,
+disclosed, reproduced, or used to develop competing products.
+
+PROPRIETARY NOTICES
+You may not remove or alter any copyright notices, proprietary labels,
+or markings included in the Software.
+
+NO SUPPORT OBLIGATION
+The Software is provided as freeware. The Author has no obligation to 
+provide maintenance, support, updates, enhancements, or modifications.
+
+DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+INDEMNIFICATION
+You agree to indemnify, defend, and hold harmless the Author from any 
+and all claims, damages, liabilities, costs, and expenses (including 
+reasonable attorneys' fees) arising from your use of the Software or the 
+distribution of your encoded applications.
+
+SEVERABILITY
+If any provision of this license is held to be unenforceable or invalid, 
+such provision will be changed and interpreted to accomplish the objectives 
+of such provision to the greatest extent possible under applicable law, and 
+the remaining provisions will continue in full force and effect.
+
+GOVERNING LAW
+This License shall be governed by and construed in accordance with the laws 
+of Egypt, excluding its conflicts of law rules.
+
+TERMINATION
+This license is effective until terminated. Your rights under this
+license will terminate automatically if you fail to comply with any
+term of this license. Upon termination, you must cease all use of
+the Software, its extensions, and destroy all copies in your possession.
+
+All rights not expressly granted in this license are reserved by
+Khaled Zaki Zaki Morsi.

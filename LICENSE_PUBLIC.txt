@@ -1,0 +1,53 @@
+========================================================================
+                     KENCRYPT COMMERCIAL EULA (END USER LICENSE AGREEMENT)
+========================================================================
+Author: Khaled Zaki  
+Date: 2026
+
+1. LEGAL ACCEPTANCE AND OWNERSHIP
+This End User License Agreement ("Agreement") is a binding legal contract 
+between you (either an individual or a single entity) and Khaled Zaki ("The 
+Author"). By downloading, installing, copying, or otherwise using the KEncrypt 
+binary distribution (.dll or .so), you agree to be bound by the terms of this 
+Agreement. 
+
+The Software is protected by copyright laws and international copyright treaties. 
+The Software is licensed, not sold. All rights, title, intellectual property, 
+and interest in the Software remain exclusively with Khaled Zaki.
+
+2. GRANTED RIGHTS
+The Author grants you a revocable, non-exclusive, worldwide, royalty-free 
+license to use the Software indefinitely for the sole purpose of encrypting, 
+protecting, and executing your own PHP source code in personal, internal, or 
+commercial environments.
+
+3. STRICT PROHIBITIONS & ZERO-TOLERANCE POLICY
+To protect the proprietary execution mechanisms within the Software, the 
+following acts are explicitly forbidden:
+   A. You may NOT reverse engineer, decompile, trace, dissect, or disassemble 
+      the binary format of the Software.
+   B. You may NOT attempt to bypass, modify, or disable the opcode dumping and 
+      debugger detection routines built into the Software.
+   C. You may NOT hex-edit, patch, or otherwise modify the binary to remove, 
+      alter, or mask the Author’s ownership strings, watermarks, or branding.
+   D. You may NOT rebrand the Software as your own and sell, lease, or distribute 
+      the Software mechanism itself as a standalone product.
+
+4. EMBEDDED DIGITAL AUTHORSHIP PROOF
+Be advised: This software contains embedded, heavily obfuscated cryptographic 
+watermarks that cannot be easily stripped by basic hex editors. These watermarks 
+dynamically yield the Author's identity when mathematically triggered by the 
+Engine. The Author reserves the right to use these mechanisms to publicly, 
+indisputably prove theft and seek damages against entities that unlawfully 
+re-label and distribute this extension as their own.
+
+5. LIABILITY DISCLAIMER
+THE SOFTWARE IS DISTRIBUTED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER 
+EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGES, DATA 
+LOSS, REVENUE LOSS, SERVER CRASHES, OR OTHER ISSUES ARISING FROM THE USE OR 
+INABILITY TO USE THIS SOFTWARE. YOU ARE RESPONSIBLE FOR MAINTAINING UNENCRYPTED 
+BACKUPS OF ALL SOURCE CODE YOU PROCESS WITH THE SOFTWARE.
+
+By using this extension, you irrevocably acknowledge you have read and agreed to 
+these terms.
+========================================================================
